@@ -1,10 +1,10 @@
 ---
 published: true
 type: post
-title: Heat Advisory in Effect
+title: Hot Enough to Fry Your Brain on the Sidewalk?
 layout: post
 ---
-### Hot Enough to Fry Your Brain on the Sidewalk?
+### Heat Advisory in Effect
 
 Never mind frying eggs on the sidewalk,  today, July 14, 2016, will be hot enough to cause major health issues.  Baltimore City released a code red heat advisory warning that the temperature will feel like 105 degrees.
 
