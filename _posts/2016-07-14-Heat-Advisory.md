@@ -14,4 +14,4 @@ Cooling centers will be open for those who need them but not everyone enjoys the
 
 Good alternatives, places where you can sit in the air conditioning at someone else's expense,  include the library,  the movies, and the mall. In fact the mall is terrific because you can get your daily walk without passing out from the heat.
 
-Drink plenty of water and make sure small children and the elderly are staying cool and hydrated. 
+Drink plenty of water and make sure small children and the elderly are staying cool and hydrated.
