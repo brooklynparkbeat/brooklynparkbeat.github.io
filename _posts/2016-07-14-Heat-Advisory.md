@@ -2,6 +2,7 @@
 published: true
 type: post
 title: Heat Advisory in Effect
+layout: post
 ---
 ### Hot Enough to Fry Your Brain on the Sidewalk?
 
